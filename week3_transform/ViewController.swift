@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    //test
     
     @IBOutlet weak var segment: UISegmentedControl!
     
